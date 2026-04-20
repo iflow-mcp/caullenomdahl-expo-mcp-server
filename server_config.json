@@ -1,0 +1,1 @@
+{"serverConfig": "{\"mcpServers\":{\"expo-dev\":{\"command\":\"npx\",\"args\":[\"-y\",\"@iflow-mcp/caullenomdahl-expo-mcp-server\"],\"env\":{\"EXPO_TOKEN\":\"\"},\"values\":{\"EXPO_TOKEN\":{\"type\":\"string\",\"title\":\"Expo Token\",\"description\":\"Expo access token for authentication. Get your token at https://expo.dev/settings/access-tokens\",\"default\":\"\"}}}}}"}
