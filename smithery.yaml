@@ -1,4 +1,6 @@
 runtime: "typescript"
+transports:
+  - type: "stdio"
 configSchema:
   type: "object"
   properties:
